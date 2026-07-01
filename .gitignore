@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build files
+.next/
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# VS Code / Cursor
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prisma
+prisma/dev.db
